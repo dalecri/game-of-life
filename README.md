@@ -8,7 +8,7 @@ No build step, no dependencies. Everything is vanilla CSS and JS.
 
 ## Run it
 
-Open `index.html` in a browser (or serve the folder).
+Open `index.html` in a browser (or serve the folder). Live at https://heycristobal.com/game-of-life/
 
 ## Controls
 
